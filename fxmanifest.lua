@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 name 'ox_stashcreator'
-author 'AstraV'
+author 'Thendra'
 description 'Dynamic prop stash creation and management system for ox_inventory'
 version '1.0.0'
 
